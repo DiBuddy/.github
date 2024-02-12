@@ -15,7 +15,8 @@ At DiBuddy, we believe in fostering a safe, inclusive, and supportive campus env
 - **Real-Time Updates**: Stay updated with real-time notifications about walk groups and any changes to plans.
 - **Interactive UX**: A user-friendly interface that ensures ease of navigation and interaction.
 - **Nested Object Models**: Optimized for efficient API data fetching, catering to complex data structures.
-- **User Identification**: Utilizes a local dummy database for user verification. Future updates aim to integrate with school-wide student - - **databases for authentication**.
+- **User Identification**: Utilizes a local dummy database for user verification. Future updates aim to integrate with school-wide students. This application is school-by-school only, enhancing privacy and safety for users. 
+- **databases for authentication**.
 - **Request Upload**: Students can post walk requests to either their house destination or other verified locations, updating both local and online databases.
 - **Interactive Chatbox**: Features encoded user IDs for secure communication among students.
 - **Notifications**: Supports local notifications and SMS alerts via Twilio (trial) to keep users informed.
