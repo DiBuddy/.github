@@ -23,7 +23,7 @@ At DiBuddy, we believe in fostering a safe, inclusive, and supportive campus env
 - **Location and Time Tracking**: Captures the user's current location and time for enhanced data analysis.
 
 ## Technologies:
-- Flutter (for frontend development - IOS and Android)
+- Flutter or React Native (for frontend development - IOS and Android)
 - Ruby and Rails, Docker (for backend services)
 - MongoDB, MySQL, PostgreSQL (for database management)
 - Google Maps API key (for mapping services)
