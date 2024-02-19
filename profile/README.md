@@ -39,11 +39,9 @@ We're always on the lookout for enthusiastic contributors, developers, and campu
 
 ## Contact Us
 
-Have ideas, feedback, or want to join the team? Reach out to us at contact@dibuddy.org.
+Have ideas, feedback, or want to join the team? Reach out to us at letuanminh2707@gmail.com.
 
 ## Follow Us
-
-Stay connected and follow our journey on [Twitter](#) | [Instagram](#) | [Facebook](#).
 
 ---
 
